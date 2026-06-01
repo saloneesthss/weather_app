@@ -19,11 +19,7 @@ Whether you want to check the current temperature, see what conditions to expect
 
 ## 🎬 Demo
 
-```
-
 > [demo.mp4](demo.mp4)
-
-```
 
 ---
 
