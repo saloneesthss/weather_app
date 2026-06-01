@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-const String apiKey = "YOUR_API_KEY";
+const String apiKey = "YOUR_API_KEY_HERE";
 class WeatherService {
   final String _baseUrl = "https://api.weatherapi.com/v1";
   Future<Map<String, dynamic>> getHourlyForecast(String location) async {
